@@ -1,0 +1,25 @@
+/* .ContentColtrol{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+} */
+
+.SubContentControl{
+  width: '800px';
+  /* background-color: blueviolet; */
+  display: flex;
+  margin-left: 50px;
+  margin-top: 60px;
+}
+
+.SalesCard{
+  height: 90px;
+  width: 450px;
+  background-color:#ffffff;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+}

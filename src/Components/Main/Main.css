@@ -1,0 +1,57 @@
+.theSlider{
+  height: 1070px;
+  width: 250px;
+  background-color: #101938;
+}
+
+.theHeader{
+  height: 40px;
+  width: 100%;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  /* color: #c813d1, */
+}
+
+.theContent{
+  height: 100%;
+  width: 100%;
+  background-color: #f7f5f9;
+}
+
+.theFooter{
+  height: 50px;
+  width: 100%;
+  background-color: #001529;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.IconTextHold{
+  width: 190px;
+  /* background-color: brown; */
+  display: flex;
+  margin-bottom: 17px;
+
+}
+
+.IconStyle{
+  width: 50px;
+  font-size: 20px;
+  /* background-color: green; */
+  color: white;
+  /* font-weight: lighter; */
+
+}
+
+.TexticonStyle{
+  width: 130px;
+  /* background-color: darkred; */
+  /* font-size: 16px; */
+  font-weight: lighter;
+  color: white;
+}

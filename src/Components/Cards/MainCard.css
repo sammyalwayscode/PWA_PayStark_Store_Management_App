@@ -1,0 +1,78 @@
+.CardTopDiv{
+  height: 200px;
+      width: 156px;
+      /* background-color: darkcyan; */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 7px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      margin: 15px auto;
+}
+
+.CardDivTwo{
+  width: 130px;
+        /* background-color: darkblue; */
+        display: flex;
+        flex-direction: column;
+        justify-content : center;
+        align-items: center;
+        text-align: center;
+}
+
+
+.imgDiv{
+  width: 130px;
+  height: 130px;
+  display: flex;
+        justify-content : center;
+        align-items: center;
+  /* background-color: darkmagenta; */
+  margin-top:10px ;
+}
+
+.imgDiv:hover{
+  border-radius: 100px;
+  border: 2px solid #0fdea5 ;
+}
+
+.firstText{
+  font-size: larger;
+  font-weight: lighter;
+  margin-top: -3px;
+}
+
+
+
+/* .firstText:hover{
+  color:#0fdea5 ;
+} */
+
+.imgtext:hover{
+  /* border-radius: 100px;
+  border: 2px solid #0fdea5 ; */
+  color:#0fdea5 ;
+}
+
+.subtexes{
+  width: 120px;
+  display: flex;
+  /* background-color: darkgoldenrod; */
+  font-size: 12px;
+  font-weight: lighter;
+  justify-content: space-between;
+  margin-top: -10px;
+}
+
+.titltSub{
+
+}
+
+.subSub{
+  margin-top: -12px;
+  color: #0fdea5;
+}
+
+.subSub1{
+  margin-top: -12px;
+}
